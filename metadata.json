@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Crypto Trading Terminal \u0026 Bots (منصة التداول والربوتات)",
+  "description": "منصة تداول احترافية للعملات الرقمية تدعم التداول اليدوي والأوتوماتيكي وبوتات الشبكة وDCA مع تحليلات ذكية بالذكاء الاصطناعي وحماية مفاتيح API",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
